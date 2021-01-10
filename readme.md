@@ -16,6 +16,6 @@ To clone just run `npm i` then `node .` in the root directory. It'll ask you for
 
 Within the next update you will be able to load servers through JSON files that Discord Clone Bot will generate, as of right now you can only generate the JSON files by adding the `savejson` argument to the `node .` command.
 
-DiscordCloneBot was originally made by !AmNoot, I just took it and completely recoded it to fix user experience flaws, library errors and so on.
+DiscordCloneBot was originally made by @IAmANoot , I just took it and completely recoded it to fix user experience flaws, library errors and so on.
 
 Enjoy :)
